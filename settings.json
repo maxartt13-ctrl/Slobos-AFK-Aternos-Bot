@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AstralisCoreSMP.aternos.me:16534",
+    "ip": "AstralisCoreSMP.aternos.me",
     "port": 16534,
     "version": "",
     "try-creative": false
